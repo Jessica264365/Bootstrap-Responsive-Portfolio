@@ -4,9 +4,8 @@
 - View the live [website](https://jessica264365.github.io/HW02-Responsive-Portfolio/)
 
 ## Table of Contents
-
-- [About the Project](https://github.com/Jessica264365/HW02-Responsive-Portfolio#about-the-project)
-  -[Built With](https://github.com/Jessica264365/HW02-Responsive-Portfolio#built-with)
+* [About the Project](https://github.com/Jessica264365/HW02-Responsive-Portfolio#about-the-project)
+  * [Built With](https://github.com/Jessica264365/HW02-Responsive-Portfolio#built-with)
 - [Start Your Own](https://github.com/Jessica264365/HW02-Responsive-Portfolio#start-your-own)
   - [Prerequisites](https://github.com/Jessica264365/HW02-Responsive-Portfolio#prerequisites)
   - [Installation](https://github.com/Jessica264365/HW02-Responsive-Portfolio#installation)
@@ -40,7 +39,7 @@ This project with built using Bootstraps gird system. I added in personal touche
 ## Start Your Own
 
 To get a copy of this project on your local computer please follow these next steps.
-
+     
 ### Prerequisites
 
 Be familier with [Bootstrap.com](https://getbootstrap.com/). The grid system for this project and most of the components come from this site.
