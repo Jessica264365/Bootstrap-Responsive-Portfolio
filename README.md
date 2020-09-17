@@ -31,7 +31,7 @@ After I created these pages I needed to make sure they were responsive for the f
 - 400
 
 I was required to use my own pictures and personal details in the "About Me" section and Portfolio page. So once the framework was done I added those personal touches for the final product.
-![](./images/aboutme.png) ![](./images/contact.png) ![](./images/portfolio.png)
+![](/images/aboutme.png) ![](./images/contact.png) ![](./images/portfolio.png)
 
 ### Built With
 
