@@ -10,7 +10,6 @@
 - Start Your Own
   - Prerequisites
   - Installation
-
 * License
 * Roadmap
 * Contribute
