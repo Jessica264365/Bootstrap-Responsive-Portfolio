@@ -1,7 +1,7 @@
 # Homework Assignment 2: Responsive Portfolio
 
 - View the GitHub [repository](https://github.com/Jessica264365/HW02-Responsive-Portfolio)
-- View the live [Web-page]
+- View the live [website](https://jessica264365.github.io/HW02-Responsive-Portfolio/)
 
 ## Table of Contents
 
