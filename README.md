@@ -1,20 +1,18 @@
 # Homework Assignment 2: Responsive Portfolio
 
 - View the GitHub [repository](https://github.com/Jessica264365/HW02-Responsive-Portfolio)
-- View the live [Web-page]
+- View the live [website](https://jessica264365.github.io/HW02-Responsive-Portfolio/)
 
 ## Table of Contents
-
-- About the Project
-  - Built With
-- Start Your Own
-  - Prerequisites
-  - Installation
-
-* License
-* Roadmap
-* Contribute
-* My Contact Information
+* [About the Project](https://github.com/Jessica264365/HW02-Responsive-Portfolio#about-the-project)
+  * [Built With](https://github.com/Jessica264365/HW02-Responsive-Portfolio#built-with)
+- [Start Your Own](https://github.com/Jessica264365/HW02-Responsive-Portfolio#start-your-own)
+  - [Prerequisites](https://github.com/Jessica264365/HW02-Responsive-Portfolio#prerequisites)
+  - [Installation](https://github.com/Jessica264365/HW02-Responsive-Portfolio#installation)
+* [License](https://github.com/Jessica264365/HW02-Responsive-Portfolio#license)
+* [Roadmap](https://github.com/Jessica264365/HW02-Responsive-Portfolio#roadmap)
+* [Contribute](https://github.com/Jessica264365/HW02-Responsive-Portfolio#contribute)
+* [My Contact Information](https://github.com/Jessica264365/HW02-Responsive-Portfolio#my-contact-information)
 
 ## About the Project
 
@@ -31,7 +29,8 @@ After I created these pages I needed to make sure they were responsive for the f
 - 400
 
 I was required to use my own pictures and personal details in the "About Me" section and Portfolio page. So once the framework was done I added those personal touches for the final product.
-![](./images/aboutme.png) ![](./images/contact.png) ![](./images/portfolio.png)
+
+![](/images/aboutme.PNG) ![](/images/contact.PNG) ![](/images/portfolio.PNG)  
 
 ### Built With
 
@@ -40,7 +39,7 @@ This project with built using Bootstraps gird system. I added in personal touche
 ## Start Your Own
 
 To get a copy of this project on your local computer please follow these next steps.
-
+     
 ### Prerequisites
 
 Be familier with [Bootstrap.com](https://getbootstrap.com/). The grid system for this project and most of the components come from this site.
