@@ -5,11 +5,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>About Me</title>
     <!-- Bootstrap style sheet -->
+
     <link
       rel="stylesheet"
-      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
-      integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+      integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"
       crossorigin="anonymous"
+    />
+
+    <link
+      href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+      rel="stylesheet"
     />
     <!-- Personal style sheet -->
     <link rel="stylesheet" href="style.css" />
@@ -23,7 +29,7 @@
   <body>
     <!-- Navbar -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-      <a class="navbar-brand" href="#"><mark>Jessica Whitman</mark></a>
+      <a class="navbar-brand" href="index.html">Jessica Whitman</a>
       <button
         class="navbar-toggler"
         type="button"
@@ -54,38 +60,60 @@
     <!-- About me  -->
     <main class="container">
       <section class="row">
-        <div class="col-lg-7 col-md-7 col-xs-12">
+        <div class="col-lg-7 col-md-7 col-xs-12 about">
           <h1>About me</h1>
           <hr />
-          <img src="./images/Rooftop Headshot resize.jpg" class="aboutme" />
+          <img src="./images/me.jpg" class="aboutme" />
           <p>
-            Hey everyone, I'm Jessica. I am a West Seattleite who loves dogs,
-            absurdist fiction books, classic rock, camping and coffee. I moved
-            to Seattle about 8 years ago from the small town of Sequim,
-            Washington. My parents still live there and while it’s a great
-            weekend getaway I would never choose to go back. I’ve found that
-            Seattle is full of fascinating people and from the very first time I
-            visited it had my heart. I currently live in a little 380 square
-            foot loft apartment with my boyfriend of 10 years and our two dogs,
-            Jolene and Lilly. Jolene is a 4-year-old, super excited Belgium
-            Malinois and Lilly is a little 12-year-old blind pug. Together we
-            all make up my little family here. My passion for coffee has led me
-            to work for one of the best coffee roasters in the Seattle area,
-            Fonte Coffee Roaster. I currently manage one of their coffee shops.
-            It feeds my coffee addiction and I love getting to know all the
-            regulars. I’m excited to break away from this job and start my
-            journey into the tech industry with some of the skills I have
-            acquired over the years while working for Fonte. That is just a
-            little bit about me.
+            I am a West Seattleite who loves dogs, absurdist fiction books, and
+            caffeine. I am a dedicated team player who is ready to dive right
+            into the web development world. Before entering the web development
+            field, I was a coffee shop manager for many years. So, I am
+            experienced with time management and team management. I enjoy
+            creating responsive full stack applications with the skills I have
+            acquired. I have a constant drive to learn about new technologies.
+            My ideal job would involve doing something new every day which is
+            why this industry thrills me so much. I will be a great addition to
+            any company looking for someone who strives to grow as a web
+            developer every day. Please give my portfolio and resume a peek.
           </p>
+          <div class="row justify-content-center">
+            <a
+              class="mx-3"
+              target="_blank"
+              href="mailto:jwhitman135@outlook.com"
+              aria-label="Email"
+            >
+              <i class="fa fa-envelope fa-3x" aria-hidden="true"></i>
+            </a>
+            <a
+              target="_blank"
+              href="https://github.com/Jessica264365"
+              class="mx-3"
+              ><i class="fa fa-github fa-3x" aria-hidden="true"></i>
+            </a>
+            <a
+              class="mx-3"
+              target="_blank"
+              href="https://www.linkedin.com/in/jessica-whitman-9529301bb/"
+              aria-label="LinkedIn"
+            >
+              <i class="fa fa-linkedin-square fa-3x" aria-hidden="true"></i>
+            </a>
+          </div>
         </div>
       </section>
     </main>
     <!--Footer -->
     <footer class="footer fixed-bottom">
-      <div class="footer-body card-body">
-        <h5 class="card-title text-muted">@Copyright</h5>
+      <div class="container d-flex justify-content-center">
+        <h5 class="text-muted">© Copyright Jessica Whitman 2021</h5>
       </div>
     </footer>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW"
+      crossorigin="anonymous"
+    ></script>
   </body>
 </html>
