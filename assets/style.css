@@ -1,0 +1,68 @@
+/* CSS for all pages */
+body {
+  background-image: url(./images/background.jpg);
+}
+h1 {
+  font-family: "Righteous", cursive;
+}
+nav {
+  background-color: rgb(255, 255, 255);
+  margin-bottom: 60px;
+}
+.nav-link {
+  color: black;
+}
+mark {
+  background-color: teal;
+  color: white;
+}
+.img-fluid {
+  width: auto;
+  max-height: auto;
+}
+
+/* Footer CSS */
+footer {
+  background-color: teal;
+  color: lightgray;
+  max-height: 35px;
+  text-align: center;
+  text-size-adjust: 10px;
+  box-shadow: teal 0px -10px;
+}
+
+/* CSS for About Me Page */
+.aboutme {
+  float: left;
+  margin: 10px;
+  max-width: 200px;
+}
+main section {
+  margin-top: 60px;
+  margin-left: 10px;
+  padding: 5%;
+}
+main section div {
+  background-color: white;
+}
+i {
+  color: black;
+}
+
+/* CSS for Portfolio Page */
+.port-image {
+  margin: 20px auto;
+}
+.container {
+  margin-bottom: 90px;
+}
+
+/* CSS for Contact Page */
+.btn-primary {
+  color: white;
+  background-color: teal;
+  border-color: teal;
+}
+.contactsubmit {
+  background-color: white;
+}

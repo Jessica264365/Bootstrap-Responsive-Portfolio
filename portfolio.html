@@ -12,7 +12,7 @@
       crossorigin="anonymous"
     />
     <!-- Personal style sheet -->
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="./assets/style.css" />
     <!-- Google fonts link -->
     <link
       href="https://fonts.googleapis.com/css2?family=Righteous&display=swap"
@@ -54,55 +54,118 @@
     <main class="container">
       <!-- Heading -->
       <div class="row">
-        <div class="col-lg-8">
+        <div class="col-lg-9">
           <section class="card">
             <div class="card-body">
               <h1>Portfolio</h1>
               <hr />
-              <!-- First photo -->
-              <div class="row">
-                <div class="col-lg-6 col-md-8 col-xs-6">
+              <!-- Eat the Burger -->
+              <div class="row justify-content-center text-center">
+                <div class="col-lg-6 col-md-8 col-xs-6 justify-content-center">
                   <img
-                    src="./images/travislilly.jpeg"
-                    alt="A blind pug in a backpack on a mans back"
+                    src="./assets/images/burger.gif"
+                    alt="A GIF of a burger logging application"
                     class="img-fluid port-image"
                   />
+                  <a
+                    class="btn btn-primary"
+                    href="https://github.com/Jessica264365/Eat-The-Burger"
+                    role="button"
+                    >Repository</a
+                  >
+                  <a
+                    class="btn btn-primary"
+                    href="https://github.com/Jessica264365/Eat-The-Burger"
+                    role="button"
+                    >Deployed</a
+                  >
+                  <p>
+                    This is a burger logging application that demonstrates the
+                    use of ORM utilization, Handlebars, MySQL, Node, and
+                    Express.
+                  </p>
                 </div>
-                <!-- Second photo -->
+                <!-- Budget Tracker -->
                 <div class="col-lg-6 col-md-8 col-xs-6">
                   <img
-                    src="./images/lillyjolene.jpeg"
-                    alt="A pug and sheperd on a beach"
+                    src="./assets/images/budgettracker.gif"
+                    alt="A GIF of my budget tracker application"
                     class="img-fluid port-image"
                   />
+                  <a
+                    class="btn btn-primary"
+                    href="https://github.com/Jessica264365/Budget-Tracker"
+                    role="button"
+                    >Repository</a
+                  >
+                  <a
+                    class="btn btn-primary"
+                    href="https://immense-mesa-51870.herokuapp.com/"
+                    role="button"
+                    >Deployed</a
+                  >
+                  <p>
+                    A budget tracking application that works offline thanks to
+                    the help of a service worker and the browser's indexedDB.
+                    All the input data is stored in a MongoDB database when the
+                    application is online.
+                  </p>
                 </div>
               </div>
-              <!-- Third photo -->
-              <div class="row">
+              <!-- README Generator -->
+              <div class="row justify-content-center text-center">
                 <div class="col-lg-6 col-md-8 col-xs-6">
                   <img
-                    src="./images/lillyflowers.jpeg"
-                    alt="A pug sitting in yellow flowers"
+                    src="./assets//images/readme.gif"
+                    alt="A GIF of my README generator in action"
                     class="img-fluid port-image"
                   />
+                  <a
+                    class="btn btn-primary"
+                    href="https://github.com/Jessica264365/Professional-README-Generator"
+                    role="button"
+                    >Repository</a
+                  >
+                  <a
+                    class="btn btn-primary"
+                    href="https://drive.google.com/file/d/1if7WTmco69nJCu9IYH9EwHRsvTMqtDqu/view"
+                    role="button"
+                    >Video Demo</a
+                  >
+                  <p>
+                    A command line professional README generator. The user is
+                    asked a series of questions about their project using the
+                    Inquirer npm package. Once the questions are completed a
+                    professional README is created. It even include a license
+                    badge.
+                  </p>
                 </div>
-                <!-- Fourth photo -->
+
+                <!-- Hawk Box -->
                 <div class="col-lg-6 col-md-8 col-xs-6">
                   <img
-                    src="./images/jolenecamping.jpeg"
-                    alt="A dog sitting on a chair in front of moutains and a river"
+                    src="./assets/images/hawkbox.gif"
+                    alt="A GIF of my Seahawks fan forum project."
                     class="img-fluid port-image"
                   />
-                </div>
-              </div>
-              <!-- Fifth photo -->
-              <div class="row">
-                <div class="col-lg-6 col-md-8 col-xs-6">
-                  <img
-                    src="./images/espressomachine.jpeg"
-                    alt="An espresso machine pulling 4 shots of espresso"
-                    class="img-fluid port-image"
-                  />
+                  <a
+                    class="btn btn-primary"
+                    href="https://github.com/luckyian/Hawk_Box"
+                    role="button"
+                    >Repository</a
+                  >
+                  <a
+                    class="btn btn-primary"
+                    href="https://hawkbox.herokuapp.com/"
+                    role="button"
+                    >Deployed</a
+                  >
+                  <p>
+                    A Seahawks fan forum. Users can make an account and post
+                    videos and comments about everything Seahawks. This was a
+                    group project that was made with Handlebars, passport.js,
+                    express.js and mySQL.
+                  </p>
                 </div>
               </div>
             </div>
@@ -113,12 +176,17 @@
     <!-- Footer -->
     <footer class="footer fixed-bottom">
       <div class="container d-flex justify-content-center">
-        <h5 class="card-title text-muted">@Copyright</h5>
+        <span class="text-light">&copy; Copyright 2020 Jessica Whitman</span>
       </div>
     </footer>
     <script
-      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js"
-      integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW"
+      src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+      integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx"
       crossorigin="anonymous"
     ></script>
   </body>
