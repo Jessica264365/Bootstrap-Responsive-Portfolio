@@ -1,62 +1,59 @@
-# Homework Assignment 2: Responsive Portfolio
+# Portfolio
 
-- View the GitHub [repository](https://github.com/Jessica264365/HW02-Responsive-Portfolio)
-- View the live [website](https://jessica264365.github.io/HW02-Responsive-Portfolio/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+- View the GitHub [repository](https://github.com/Jessica264365/Portfolio)
+- View the live [website](https://jessica264365.github.io/Portfolio/)
 
 ## Table of Contents
-* [About the Project](https://github.com/Jessica264365/HW02-Responsive-Portfolio#about-the-project)
-  * [Built With](https://github.com/Jessica264365/HW02-Responsive-Portfolio#built-with)
-- [Start Your Own](https://github.com/Jessica264365/HW02-Responsive-Portfolio#start-your-own)
-  - [Prerequisites](https://github.com/Jessica264365/HW02-Responsive-Portfolio#prerequisites)
-  - [Installation](https://github.com/Jessica264365/HW02-Responsive-Portfolio#installation)
-* [License](https://github.com/Jessica264365/HW02-Responsive-Portfolio#license)
-* [Roadmap](https://github.com/Jessica264365/HW02-Responsive-Portfolio#roadmap)
-* [Contribute](https://github.com/Jessica264365/HW02-Responsive-Portfolio#contribute)
-* [My Contact Information](https://github.com/Jessica264365/HW02-Responsive-Portfolio#my-contact-information)
+
+- [About the Project](https://github.com/Jessica264365/Portfolio#about-the-project)
+  - [Built With](https://github.com/Jessica264365/Portfolio#built-with)
+
+* [Start Your Own](https://github.com/Jessica264365/Portfolio#start-your-own)
+  - [Prerequisites](https://github.com/Jessica264365/Portfolio#prerequisites)
+  - [Installation](https://github.com/Jessica264365/Portfolio#installation)
+
+- [License](https://github.com/Jessica264365/Portfolio#license)
+- [Roadmap](https://github.com/Jessica264365/Portfolio#roadmap)
+- [Contribute](https://github.com/Jessica264365/Portfolio#contribute)
+- [My Contact Information](https://github.com/Jessica264365/Portfolio#my-contact-information)
 
 ## About the Project
 
-For this homework assignment I was tasked with creating a responsive web page using Bootstraps grid system. I was given 3 different pages I needed to create. The pages were as follows:
+This is my personal portfolio for my work. I have included a little about me section, a portfolio page to display my best works, a downloadable PDF of my resume, and a contact form. It is fully responsive on all screens. You can find repository links and links to my deployed applications if you should choose to give them a look.
 
-- An index.html page with an "About Me" section and photo
-- A contact page with a contact form that the user could submit
-- A portfolio page with 5 pictures laid out using Bootstaps grid system
-
-After I created these pages I needed to make sure they were responsive for the following screen sizes:
-
-- 992
-- 768
-- 400
-
-I was required to use my own pictures and personal details in the "About Me" section and Portfolio page. So once the framework was done I added those personal touches for the final product.
-
-![](/images/aboutme.PNG) ![](/images/contact.PNG) ![](/images/portfolio.PNG)  
+![](./assets/images/portfolio.gif)
 
 ### Built With
 
-This project with built using Bootstraps gird system. I added in personal touches with my own CSS style sheet which you can view in my repository.
+Bootstrap, CSS, HTML and a little JavaScript.
 
 ## Start Your Own
 
 To get a copy of this project on your local computer please follow these next steps.
-     
+
 ### Prerequisites
 
-Be familier with [Bootstrap.com](https://getbootstrap.com/). The grid system for this project and most of the components come from this site.
+Read up on the documentation
+
+- [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 
 ### Installation
 
 1. Clone the repository
 
-   git@github.<span></span>com:Jessica264365/HW02-Responsive-Portfolio.git
+   git@github.<span></span>com:Jessica264365/Portfolio.git
 
-## License
+2. Enter in your own information.
 
-None
+### MIT License
+
+A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
 
 ## Roadmap
 
-This project does not currently have an open issues. Please check the [issues](https://github.com/Jessica264365/HW02-Responsive-Portfolio/issues) page on GitHub for any updates.
+This project does not currently have an open issues. Please check the [issues](https://github.com/Jessica264365/Portfolio/issues) page on GitHub for any updates.
 
 ## Contribute
 
@@ -70,8 +67,8 @@ If you are interesting in contributing to this project please follow these steps
 
 ## My Contact Information
 
-Email: jwhitman135@outlook.com
+Email: jessicamorrison.webdev@gmail.com
 
 GitHub Page: https://github.com/Jessica264365
 
-Link to project: https://github.com/Jessica264365/HW02-Responsive-Portfolio
+Link to project: https://github.com/Jessica264365/Portfolio
