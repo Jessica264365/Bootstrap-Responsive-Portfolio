@@ -17,7 +17,7 @@ mark {
   color: white;
 }
 .img-fluid {
-  width: auto;
+  max-width: auto;
   max-height: auto;
 }
 
